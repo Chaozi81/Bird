@@ -1,0 +1,13 @@
+config_version=5
+
+[application]
+config/name="打砖块 Demo"
+run/main_scene="res://main.tscn"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/threads/thread_model="single"
+
+[display]
+window/size/viewport_width=800
+window/size/viewport_height=600
